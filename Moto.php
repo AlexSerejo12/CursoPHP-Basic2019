@@ -1,5 +1,9 @@
 <?php
 
+/* Autor: Alex Serejo da Silva
+ *	ano 2019 - Setembro
+ */
+
 class Moto{
 	
 	public $potencia;
